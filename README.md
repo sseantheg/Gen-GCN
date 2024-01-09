@@ -21,7 +21,7 @@ There is a total of 3 notebooks for the end-to-end processes of this project. Th
 2. `ASMG Framework`: custom dataset to prep mesh objects for GCN use, implement a generative pipeline consisting of a VGAE, an Attention Mechanism, Domain Transformation and B-VAE which _**attempts**_ to generate 3D organ shapes. 
 3. `Evaluation`: evaluate the quality of the generation using metrics like Hausdorff Distance (HD) and the average of minimum Euclidean distance (ED).
 
-## C. Data
+## C. Data (not included due to size)
 The dataset used in this project is the AMOS dataset from the MICCAI Challenge 2022, a set of abdominal multi-organ medical image scans, with more details found in the documentation file. This project focuses on CT scans and the organ of the gallbladder. 
 
 
