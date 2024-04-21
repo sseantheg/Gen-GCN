@@ -30,7 +30,7 @@ There are some areas to improve upon on this project that I would like to revisi
 1. interpolate the CT scans to generate smoother mesh
 2. regularise the mesh, fixing the number of nodes & edges
 3. better segmentation (this study used the segmentation label that came with the data source, seems like it is not 100% accurate)
-4. implement the refinement loss that is found in the original ASMG framework by Soodeh Kalaie
+4. implement the refinement loss that is found in the original ASMG framework by Soodeh Kalaie. The reference paper compared results from two types of generation (w and w/o refinement loss), the refinement loss is not a make-or-break.
 5. trying out another generation framework (GAN) instead of B-VAE
 6. hyperparameter tuning and early stopping
 
