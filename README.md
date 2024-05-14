@@ -4,6 +4,7 @@ This project attempts to build a model pipeline consisting of Graph Convolutiona
 1. takes in 3D abdominal scans(CT)
 2. isolates specific organs and
 3. attempts to generate 3D shapes of the selected organ.
+
 The project was carried out mainly on Jupyter Notebook using PyTorch, PyG and other libraries. It is based on the [study done by Soodeh Kalaie](https://openreview.net/pdf?id=Ao0D2HMB8P) but uses a different dataset and had to implement the codes from the ground up.
 
 # List of Items:
